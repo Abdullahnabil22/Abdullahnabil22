@@ -1,5 +1,5 @@
 # 💫 About Me:
-Console.log("coding is fun")
+A cool Front-end developer hoping to be one of the best one day.
 
 
 ## 🌐 Socials:
